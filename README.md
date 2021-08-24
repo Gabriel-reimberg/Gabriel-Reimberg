@@ -2,7 +2,7 @@
 
 📖 - Atualmente estou cursando ensino médio com curso tec.de meio ambiente
 
-🐍 - Estou aprendendo pyhton também 
+🐍 - Estou aprendendo pyhton 
 
 (☞ﾟヮﾟ)☞  Eu pretendo aprender HTML depois
 
