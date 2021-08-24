@@ -13,5 +13,5 @@
    </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="gabriel-reimberg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" alt="l-death_note" src="<div class="tenor-gif-embed" data-postid="14989334" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/death-note-rain-anime-l-lawliet-gif-14989334">Death Note Rain GIF</a>from <a href="https://tenor.com/search/death+note-gifs">Death Note GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
+    <img align="right" alt="l-death_note" src="https://tenor.com/ba3zC.gif">
 </div>
