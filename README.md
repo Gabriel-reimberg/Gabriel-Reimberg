@@ -6,12 +6,6 @@
 
 (☞ﾟヮﾟ)☞  Eu pretendo aprender HTML depois
 
-  <img align="center" alt="gabriel-reimberg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" alt="l-death_note" src="https://media.giphy.com/media/gysS4T0YsTKdq/giphy.gif">
-</div>
-
-
-
  <div>
   <a href="https://github.com/Gabriel-reimberg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-reimberg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
